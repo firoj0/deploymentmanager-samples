@@ -22,3 +22,4 @@ resources:
      region: REGION_TO_RUN
      entryPoint: handler
      runtime: nodejs18
+git
